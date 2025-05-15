@@ -12,7 +12,7 @@
   },
    "r2_buckets": [
     {
-      "binding": "MY_BUCKET", // Name of the binding in your worker
+      "binding": "BUCKET", // Name of the binding in your worker
       "bucket_name": "bookodav" // Name of your R2 bucket
     }
   ],
